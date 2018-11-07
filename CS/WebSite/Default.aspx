@@ -2,7 +2,7 @@
 
 <%@ Register Assembly="DevExpress.Web.ASPxScheduler.v14.2" Namespace="DevExpress.Web.ASPxScheduler"
     TagPrefix="dxwschs" %>
-<%@ Register Assembly="DevExpress.XtraScheduler.v14.2.Core, Version=14.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4"
+<%@ Register Assembly="DevExpress.XtraScheduler.v14.2.Core, Version=14.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.XtraScheduler" TagPrefix="dx" %>
 <%@ Register Src="~/DefaultDataSources.ascx" TagName="DefaultDataSources" TagPrefix="dds" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
