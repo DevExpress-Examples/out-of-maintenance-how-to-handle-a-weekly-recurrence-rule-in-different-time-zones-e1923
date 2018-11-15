@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomEvents.cs](./CS/WebSite/App_Code/CustomEvents.cs) (VB: [CustomEvents.vb](./VB/WebSite/App_Code/CustomEvents.vb))
+* [CustomResources.cs](./CS/WebSite/App_Code/CustomResources.cs) (VB: [CustomResources.vb](./VB/WebSite/App_Code/CustomResources.vb))
+* [DataHelper.cs](./CS/WebSite/App_Code/DataHelper.cs) (VB: [DataHelper.vb](./VB/WebSite/App_Code/DataHelper.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [DefaultDataSources.ascx](./CS/WebSite/DefaultDataSources.ascx) (VB: [DefaultDataSources.ascx.vb](./VB/WebSite/DefaultDataSources.ascx.vb))
+* [DefaultDataSources.ascx.cs](./CS/WebSite/DefaultDataSources.ascx.cs) (VB: [DefaultDataSources.ascx.vb](./VB/WebSite/DefaultDataSources.ascx.vb))
+<!-- default file list end -->
 # How to handle a weekly recurrence rule in different time zones
 
 
